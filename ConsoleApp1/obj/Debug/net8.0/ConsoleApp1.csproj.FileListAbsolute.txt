@@ -1,0 +1,14 @@
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
