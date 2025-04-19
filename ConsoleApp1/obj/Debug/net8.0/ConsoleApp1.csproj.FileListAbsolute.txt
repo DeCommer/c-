@@ -12,3 +12,4 @@
 /Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/josephdecommer/Documents/coding2025/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json

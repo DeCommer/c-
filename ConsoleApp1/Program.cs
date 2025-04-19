@@ -3,10 +3,17 @@
 // var name = Console.ReadLine();
 // Console.WriteLine($"Hello, {name}!");
 
-var num1 = 5;
-int num2 = 10;
 
-int ans = num1 + num2;
 
-Console.WriteLine(ans);
+int num1 = 26;
+int num2 = 2;
+
+int remainder = num1 % num2;
+
+Console.WriteLine(remainder);
+
+num1 = 99;
+remainder = num1 % num2;
+
+Console.WriteLine(remainder);
 
