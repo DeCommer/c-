@@ -30,13 +30,20 @@
 
 int toNum = 15;
 
-for(int i = 0; i <= toNum; i++) {
-    if(toNum % 3 == 0 || toNum % 5 == 0) {
-        System.Console.WriteLine("fizzbuzz");
-    }else if(toNum % 3 == 0) {
-        System.Console.WriteLine("fizz");
-    }else if(toNum % 5 == 0) {
-        System.Console.WriteLine("buzz");
+bool modDiv1 = false;
+bool modDiv2 = false;
+
+for(int i = 1; i <= toNum; i++) {
+
+    modDiv1 = i % 3 == 0;
+    modDiv2 = i % 5 == 0;
+
+    if(modDiv1 && modDiv2) {
+        System.Console.WriteLine("Poo Pee");
+    }else if(modDiv1) {
+        System.Console.WriteLine("Poo");
+    }else if(modDiv2) {
+        System.Console.WriteLine("Pee");
     }else {
         System.Console.WriteLine(i);
     }
