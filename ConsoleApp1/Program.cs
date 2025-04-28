@@ -28,24 +28,45 @@
 
 //Fizz Buzz
 
-int toNum = 15;
+// int toNum = 15;
 
-bool modDiv1 = false;
-bool modDiv2 = false;
+// bool modDiv1 = false;
+// bool modDiv2 = false;
 
-for(int i = 1; i <= toNum; i++) {
+// for(int i = 1; i <= toNum; i++) {
 
-    modDiv1 = i % 3 == 0;
-    modDiv2 = i % 5 == 0;
+//     modDiv1 = i % 3 == 0;
+//     modDiv2 = i % 5 == 0;
 
-    if(modDiv1 && modDiv2) {
-        System.Console.WriteLine("Poo Pee");
-    }else if(modDiv1) {
-        System.Console.WriteLine("Poo");
-    }else if(modDiv2) {
-        System.Console.WriteLine("Pee");
+//     if(modDiv1 && modDiv2) {
+//         System.Console.WriteLine("Poo Pee");
+//     }else if(modDiv1) {
+//         System.Console.WriteLine("Poo");
+//     }else if(modDiv2) {
+//         System.Console.WriteLine("Pee");
+//     }else {
+//         System.Console.WriteLine(i);
+//     }
+// }
+
+using System.Runtime.InteropServices;
+
+List<int> even = [];
+List<int> odd = [];
+
+ for(int i = 0; i <= 50; i++) {
+    if(i % 2 == 0) {
+        even.Add(i);
     }else {
-        System.Console.WriteLine(i);
+        odd.Add(i);
     }
-}
+ }
 
+ foreach(var num in even) {
+    Console.Write($"{num} ");
+ }
+Console.WriteLine();
+
+foreach(var num in odd) {
+    Console.Write($"{num} ");
+}
